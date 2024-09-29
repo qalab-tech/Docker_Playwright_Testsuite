@@ -1,0 +1,12 @@
+{
+    "name": "playwright-api-testing",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "npx playwright test"
+    },
+    "devDependencies": {
+      "@playwright/test": "^1.38.0",
+      "yaml": "^2.2.1"
+    }
+  }
+  
